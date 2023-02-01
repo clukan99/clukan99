@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @clukan99. I am a pharmacy student at Butler university. 
 - 👀 I’m interested in data science and its applications to healthcare, pharmacy, bioinformatics and chemistry.
 - 🌱 I’m currently learning AI/ML techniques through classes and individual projects. 
-
+--------------------------------------------------------------------------------------------------------------------------
+On top of the rigorous doctor of pharmacy program at butler university, I enjoy all fields of data science. Here, I will give you an overview of what I completed
+--------------------------------------------------------------------------------------------------------------------------
 One of my larger projects include contributions to the ATOM data repository by creating a chemical feature importance algorithm. My commit does not show since I had to indiviudually email it to an administrator. 
 
 Additional AI/ML projects can be found under colts_project_final. This includes SVM, RF, and ANN model written with the sklearn and pytorch packages. The ANN model with 1 layer received 1st place in the undergraduate competition and 4th place in the graduate division (this was based on accuracy and I competed in the undergrad division). 
